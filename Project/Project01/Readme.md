@@ -33,7 +33,7 @@ python mlp.py --sigmoid
 ```
 If everything is correct, you will see the plot like this:
 
-<img src = 'figs/sigmoid.png' height = '230px'>
+<img src = '01/figs/sigmoid.png' height = '230px'>
 
 ### 4. Implement the backpropagation
 - Follow the comments in [`src/bp.py`](assignment/src/bp.py) to complete the implementation of backpropagation.
@@ -56,7 +56,7 @@ python mlp.py --train
 ```
 You will see something like this:
 
-<img src = 'figs/running.png' height = '230px'>
+<img src = '01/figs/running.png' height = '230px'>
 - You can play with the hyperparameters (number of layers, number of hidden units, learning rate ...) to get better results.
 
 ### 6. Record the learning curve and result on testing data
