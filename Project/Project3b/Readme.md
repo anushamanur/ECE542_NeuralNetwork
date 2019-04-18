@@ -7,6 +7,6 @@ inertial measurements from a wearable system. Two sensors, one of the wrist and 
 annotations of when the behavior was observed. The goal is to train a classifier for the detections of these events.
 
 ## Dataset
-The dataset can be found [here](Training_Data_B/)
-The consolidated data from all the sessions can be found [here](Training_Data_B/AllData/)
+The dataset can be found [here](Training_Data_B/)\
+The consolidated data from all the sessions can be found [here](Training_Data_B/AllData/)\
 
