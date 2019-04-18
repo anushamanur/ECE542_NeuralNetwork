@@ -10,3 +10,6 @@ annotations of when the behavior was observed. The goal is to train a classifier
 The dataset can be found [here](Training_Data_B/)\
 The consolidated data from all the sessions can be found [here](AllData/)
 
+## Implementation
+ * DataReader.py - Reads data from file to be fed to the LSTM model
+ * LSTM.py - Contains the LSTM model
