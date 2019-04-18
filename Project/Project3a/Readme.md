@@ -13,4 +13,4 @@ improving on your results from the first part of this project.
 Dataset can be found [here](https://drive.google.com/drive/folders/1OKypsGFBXOTPibXxmCo0_ODiZe2d4l3e?usp=sharing)
 
 ## Implementation
-Implementation details can be found [here](./Proj3a_report.pdf)
+Implementation details can be found [`here`](Proj3a_report.pdf)
