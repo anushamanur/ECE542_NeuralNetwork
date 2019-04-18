@@ -8,5 +8,5 @@ annotations of when the behavior was observed. The goal is to train a classifier
 
 ## Dataset
 The dataset can be found [here](Training_Data_B/)\
-The consolidated data from all the sessions can be found [here](Training_Data_B/AllData/)
+The consolidated data from all the sessions can be found [here](AllData/)
 
